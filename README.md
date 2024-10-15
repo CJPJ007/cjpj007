@@ -1,6 +1,11 @@
 # 💫 About Me:
-I'm currently working on build webapps using reactjs and next.js.<br>I'm looking to collabrate in building webapps using reactjs,nextjs and springboot
+👋 Hi there! I'm a passionate **Fullstack Developer** with expertise in **Java** and **Spring Boot** on the backend, and **React.js** and **TailwindCSS** on the frontend. With 3 years of experience, I take pride in building scalable and efficient solutions. I love tackling complex challenges, whether it's creating robust backend systems or designing intuitive user interfaces.
 
+💼 Currently working as a **Software Development Engineer (SDE)**, I'm always eager to collaborate on impactful projects that push the boundaries of technology. In my journey, I've worked on a diverse range of projects, including healthcare applications and microservices architectures.
+
+🎯 I'm driven by the goal of leading teams, innovating, and one day launching my own tech company as a CEO. Whether it's exploring new tools, learning from the latest industry trends, or optimizing my skills, I stay dedicated to growth and excellence.
+
+📚 In my free time, I love coding, learning new tech on platforms like Udemy and YouTube, and staying updated with the latest in full-stack development. Let's connect and build something amazing!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaypal-chauhan-192263172) 
